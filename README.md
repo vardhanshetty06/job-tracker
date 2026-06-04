@@ -23,7 +23,7 @@ A full-stack web app to track job applications — built with **pure Python** (n
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/job-tracker.git
+git clone https://github.com/vardhanshetty06/job-tracker.git
 cd job-tracker
 ```
 
